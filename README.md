@@ -1,2 +1,6 @@
-# database
-Postgres SQL database creation
+# Perdune | Database 
+
+- Postgres SQL database creation
+- Postgres tables creation
+
+
