@@ -1,1 +1,1 @@
-docker build perdune-database .
+docker build -t perdune-database .
