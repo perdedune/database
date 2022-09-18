@@ -10,7 +10,7 @@ Postgres SQL database creation.
 ## Build and deploy
 
 - `scripts/build.sh` builds the docker image;
-- `scripts/deploy.sh` deploy the database creation. In order to use this script is mandatory to properly set the **local absolute path** to mount the data.
+- `scripts/deploy.sh` deploy the database creation. In order to use this script is **mandatory** to properly set the **local absolute path** to mount the data.
 
 ## Test deployment
 In order to test the deployment of the table and the data loaded you could query directly from the inside of the container.

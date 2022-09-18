@@ -1,1 +1,1 @@
-docker run -d -v /Users/maximo/Documents/repositorios/database/data/data.csv:/data/data.csv perdune-database
+docker run -d -v `pwd`/data/data.csv:/data/data.csv perdune-database
